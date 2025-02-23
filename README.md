@@ -6,7 +6,7 @@
 
 <h2 align="center"> 𝐈. About me </h2>
 <div align="center">
-  <img src="https://i.pinimg.com/736x/35/42/3e/35423e21a91b096b56373b244fbd6b55.jpg" width="25%" align="right" />
+  <img src="https://i.pinimg.com/736x/b3/ee/1c/b3ee1cadb45f6e56f9113eff4ffcde0f.jpg" width="25%" align="right" />
   <br><br>
   
   <pre>
