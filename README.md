@@ -14,6 +14,11 @@
 · 17 years old;
 · Fascinated by low-level;
 · Brazilian, but traveling the world.
+    
+    ____________ Specializations ___________
+    · C/C++   • 4yrs
+    · Python  • 4yrs
+
 
     ____________ Areas of Study and Research ___________
 · Back-end Development  • Software Engineering
