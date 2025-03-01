@@ -17,7 +17,7 @@
     
     ____________ Specializations ___________
     · C/C++   • 4yrs
-    · Python  • 4yrs
+    · Python  • 6yrs
 
 
     ____________ Areas of Study and Research ___________
